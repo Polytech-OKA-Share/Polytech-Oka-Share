@@ -1,10 +1,7 @@
 ## 自作の資料等を管理するアカウント
 
 自作の訓練資料を管理します ^^  
-Office系ファイル多いですが差分見たかったら tika とか入れてください。マクロ付きの文書は入れるつもりないので git-xl はやりすぎかもです。  
-
-### ルールセット
-  これからつくるよ！^^
+Office系ファイル多いですが差分見たかったら tika とか入れて。マクロ無いので git-xl はやりすぎ。  
 
 <!--
 **Polytech-OKA-Share/Polytech-Oka-Share** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
